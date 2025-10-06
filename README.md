@@ -1,3 +1,1 @@
-# Nayra
-Nayra
-That created by Pankaj Kumar 
+Nayra is a virtual assistant which is created by Pankaj Kumar
